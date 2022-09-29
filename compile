@@ -1,0 +1,22 @@
+
+
+en x64:
+
+C->exe
+	gcc main.c -o a.out
+
+C->assembleur
+	gcc -S main.c -o main.s
+
++----------------------------------+
+C->object			   |
+	gcc -c main.c -o main.o    |
++----------------------------------+
+
+gdb
+	gcc -g
+
+des flags
+	gcc -D FLAG
+
+

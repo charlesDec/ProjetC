@@ -1,0 +1,7 @@
+TODO
+
+1) Aller sur internet et chercher "Linux x64 calling convention"
+Spoiler: quand on appelle un parametre dans une fonction asm depuis le C 
+(seulement en x64) les 6 premier parametres sont rangées dans un registre
+2) msg == adresse
+   [msg] == sa valeur
