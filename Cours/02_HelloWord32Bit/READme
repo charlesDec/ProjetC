@@ -1,0 +1,7 @@
+
+
+On trouve dans le même fichier main.c que dans la partie précedente
+Seule les options de compilations changent
+Vous pouvez vérifier la nature du fichier généré avec la commande file
+exemple:
+	file a.out
