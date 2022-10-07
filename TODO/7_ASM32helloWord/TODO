@@ -1,4 +1,0 @@
-
-en vous inspirant des exemple d'asm différent écrivez:
-	main.asm --> contenant le code du hello word
-	Makefile --> contenant les instructions de compilation
